@@ -233,4 +233,33 @@ Enterprise-Windows-Domain-IAM-Lifecycle-Automation/
 
 ---
 
+## ⭐ Project Status
+
+**Status:** Completed — Enterprise Domain Deployment, IAM Lifecycle Automation & Security Validation  
+**Environment:** VMware Workstation | Windows Server 2025 | Windows 11 Pro | Active Directory Domain Services (AD DS)  
+**Project Type:** Enterprise Windows Infrastructure & Identity and Access Management (IAM) Home Lab  
+**Focus:** Active Directory Administration | PowerShell Automation | Joiner–Mover–Leaver (JML) Lifecycle | Group Policy | Role-Based Access Control (RBAC) | Windows Server Administration | IT Support Troubleshooting  
+
+**Results:**
+- Successfully deployed an Active Directory domain with integrated DNS and a domain-joined Windows 11 workstation.
+- Automated the onboarding of 8 employee accounts using PowerShell, with 9 total accounts successfully validated.
+- Implemented and verified automated employee transfers and offboarding, including security group updates, account disabling, and OU management.
+- Deployed and validated a workstation security Group Policy enforcing a 15-minute inactivity lock.
+- Configured secure SMB file shares and NTFS permissions using the AGDLP access-control model.
+- Verified authorized Finance access, unauthorized access denial, and successful resource access following an employee transfer.
+- Completed 3 simulated IT Help Desk incident investigations involving DNS resolution, Active Directory account lockouts, and file-share access restrictions.
+
+---
+
+## 👤 Author
+
+**Sammy Tetzba**  
+CompTIA Security+ | Microsoft Azure Fundamentals (AZ-900)
+
+*IT Infrastructure | Identity & Access Management (IAM) | PowerShell Automation | Cybersecurity*
+
+🔗 [GitHub Portfolio](https://github.com/TetsaLab)
+
+---
+
 *Created as an independently built training environment with fictional users and isolated network resources. Screenshots document lab executions; sample data contains no real employee information. Do not execute the scripts on production Active Directory without a separate security and operations review.*
